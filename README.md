@@ -1,3 +1,5 @@
+<img width="1853" height="636" alt="Ekran görüntüsü 2026-06-26 140730" src="https://github.com/user-attachments/assets/0a99df8c-e75e-4ae7-8d7e-e74f0851afd5" />
+<img width="1905" height="792" alt="Ekran görüntüsü 2026-06-26 140718" src="https://github.com/user-attachments/assets/94d4d79a-e58c-4578-896e-fa63c2fd44de" />
 # AI-Based IoT Anomaly Detection System
 
 This project is a Machine Learning-based anomaly detection system for industrial IoT sensor data.  
